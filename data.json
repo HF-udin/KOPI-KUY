@@ -3,22 +3,22 @@
       {
         "foto": "images/produk/product_capuchino.jpg",
         "nama": "Cappuccino Arabica",
-        "size": "500 Gram",
-        "harga": "200.000",
+        "size": "100 ml",
+        "harga": "15.000",
         "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
       },
       {
         "foto": "images/produk/product_espresso.jpg",
         "nama": "Pahit Arabica",
-        "size": "100 Gram",
-        "harga": "100.000",
+        "size": "80 ml",
+        "harga": "12.000",
         "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
       },
       {
         "foto": "images/produk/product_latte.jpg",
         "nama": "Latte Arabica",
-        "size": "150 Gram",
-        "harga": "150.000",
+        "size": "80 ml",
+        "harga": "10.000",
         "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
       }
     ],
@@ -26,15 +26,15 @@
       {
         "foto": "images/produk/product_kopi_susu.jpg",
         "nama": "Kopsus Robusta",
-        "size": "100 Gram",
-        "harga": "80.000",
+        "size": "100 ml",
+        "harga": "13.000",
         "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
       },
       {
         "foto": "images/produk/product_latte.jpg",
         "nama": "Latte Robusta",
-        "size": "150 Gram",
-        "harga": "150.000",
+        "size": "80 ml",
+        "harga": "15.000",
         "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
       }
     ],
@@ -42,8 +42,8 @@
       {
         "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
         "nama": "Ice Cream",
-        "size": "100 Gram",
-        "harga": "10.000",
+        "size": "100 ml",
+        "harga": "8.000",
         "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
       }
     ]
